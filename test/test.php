@@ -52,7 +52,7 @@ EOF;
 script($js);
 
 /**
- *
+ * BD09 转 GCJ02
  */
 $btg = Coordtransform::bd09ToGcj02($lng, $lat);
 var_dump($btg);
@@ -62,7 +62,7 @@ EOF;
 script($js);
 
 /**
- *
+ * BD09 转 WGS84
  */
 $btw = Coordtransform::bd09ToWgs84($lng, $lat);
 var_dump($btw);
