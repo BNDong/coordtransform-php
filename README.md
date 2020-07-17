@@ -1,7 +1,7 @@
-<h1 align="center">Welcome tocoordtransform-php 👋</h1>
+<h1 align="center">Welcome to coordtransform-php 👋</h1>
 
-> [wandergis/coordtransform](https://github.com/wandergis/coordtransform) 的 PHP 版。<br>
-> 提供百度坐标系(bd-09)、火星坐标系(国测局坐标系、gcj02)、WGS84坐标系的相互转换，基于 PHP 语言，无特殊依赖。
+> 提供百度坐标系(bd-09)、火星坐标系(国测局坐标系、gcj02)、WGS84坐标系的相互转换，基于 PHP 语言，无特殊依赖。<br>
+> 本库代码为 [wandergis/coordtransform](https://github.com/wandergis/coordtransform) 的 PHP 版，并根据 [ipcjs/coordtransform](https://github.com/ipcjs/coordtransform) 做了国内区域判断逻辑的优化。
 
 Python version：https://github.com/wandergis/coordTransform_py
 
